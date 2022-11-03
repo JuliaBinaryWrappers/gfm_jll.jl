@@ -1,0 +1,143 @@
+[[gfm]]
+arch = "aarch64"
+git-tree-sha1 = "31e93643b4e86d9eb38dc2379ae231686f65afb9"
+os = "macos"
+
+    [[gfm.download]]
+    sha256 = "ca6d3d9a3d9fb55875fd93574661ae1ce3a6fdf096c4ddea2b973769cdef3550"
+    url = "https://github.com/JuliaBinaryWrappers/gfm_jll.jl/releases/download/gfm-v0.29.6+0/gfm.v0.29.6.aarch64-apple-darwin.tar.gz"
+[[gfm]]
+arch = "aarch64"
+git-tree-sha1 = "2311e0a0220c5cddc17db855486c308817b35c6c"
+libc = "glibc"
+os = "linux"
+
+    [[gfm.download]]
+    sha256 = "9a6dc93746d92c18e8b22b5877498d3b113d4023b0af64f6180761d5141eaede"
+    url = "https://github.com/JuliaBinaryWrappers/gfm_jll.jl/releases/download/gfm-v0.29.6+0/gfm.v0.29.6.aarch64-linux-gnu.tar.gz"
+[[gfm]]
+arch = "aarch64"
+git-tree-sha1 = "dbdd6476a72d306b6a334604c1073218159c11f3"
+libc = "musl"
+os = "linux"
+
+    [[gfm.download]]
+    sha256 = "026068d7a5d2c266f46a20d89e60765020ce7e5fd16f9f96ec5d1fc7638e5794"
+    url = "https://github.com/JuliaBinaryWrappers/gfm_jll.jl/releases/download/gfm-v0.29.6+0/gfm.v0.29.6.aarch64-linux-musl.tar.gz"
+[[gfm]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f0ebf11a33c93448406516a03c3d2c280f5c7a59"
+libc = "glibc"
+os = "linux"
+
+    [[gfm.download]]
+    sha256 = "c3734b7e1206fb2397c2ac851e5fb833b2294d014524ef542bfd903d00c1f01d"
+    url = "https://github.com/JuliaBinaryWrappers/gfm_jll.jl/releases/download/gfm-v0.29.6+0/gfm.v0.29.6.armv6l-linux-gnueabihf.tar.gz"
+[[gfm]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f673a81e0c95f18d3dd62635ca9ae74acf0159f6"
+libc = "musl"
+os = "linux"
+
+    [[gfm.download]]
+    sha256 = "8d32d5bab809d895705735f864b0965ad22d4a0e2d93d62ec636820194e75cd5"
+    url = "https://github.com/JuliaBinaryWrappers/gfm_jll.jl/releases/download/gfm-v0.29.6+0/gfm.v0.29.6.armv6l-linux-musleabihf.tar.gz"
+[[gfm]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "efa74a89a803de14d1d0a512028e5f2ddb024c84"
+libc = "glibc"
+os = "linux"
+
+    [[gfm.download]]
+    sha256 = "78dd2d8f1f8487cf60a40198c99e120f16efcf13c7f765ec257721449ca3a8d5"
+    url = "https://github.com/JuliaBinaryWrappers/gfm_jll.jl/releases/download/gfm-v0.29.6+0/gfm.v0.29.6.armv7l-linux-gnueabihf.tar.gz"
+[[gfm]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e33923e9ea1f266013502991ba1f7f68b8f8daa9"
+libc = "musl"
+os = "linux"
+
+    [[gfm.download]]
+    sha256 = "a1bb909af4d9250fb797ab9c2714f014b469944d7ea2f81e9578eed692e08b1b"
+    url = "https://github.com/JuliaBinaryWrappers/gfm_jll.jl/releases/download/gfm-v0.29.6+0/gfm.v0.29.6.armv7l-linux-musleabihf.tar.gz"
+[[gfm]]
+arch = "i686"
+git-tree-sha1 = "fcddf4effa8169429e40fef99cdc566c87dd414b"
+libc = "glibc"
+os = "linux"
+
+    [[gfm.download]]
+    sha256 = "2a455d24dd59bab901b84acb21b1f9c9622504b36a488db1b6beddbcf006e8e5"
+    url = "https://github.com/JuliaBinaryWrappers/gfm_jll.jl/releases/download/gfm-v0.29.6+0/gfm.v0.29.6.i686-linux-gnu.tar.gz"
+[[gfm]]
+arch = "i686"
+git-tree-sha1 = "a498f52e604edbf444ebcf44165c96ae9c9ba658"
+libc = "musl"
+os = "linux"
+
+    [[gfm.download]]
+    sha256 = "0cf87ef6e63944b17db0b51306c6d3ec855bf828dc4955a93a71638690005663"
+    url = "https://github.com/JuliaBinaryWrappers/gfm_jll.jl/releases/download/gfm-v0.29.6+0/gfm.v0.29.6.i686-linux-musl.tar.gz"
+[[gfm]]
+arch = "i686"
+git-tree-sha1 = "f21afc88bc4fa7aca82c14ef0c7b1010e3d15ba5"
+os = "windows"
+
+    [[gfm.download]]
+    sha256 = "b6973ce2b07e73c66586b000d0bdd28922a496fb30e82a8cfd1012ca2d6bfa67"
+    url = "https://github.com/JuliaBinaryWrappers/gfm_jll.jl/releases/download/gfm-v0.29.6+0/gfm.v0.29.6.i686-w64-mingw32.tar.gz"
+[[gfm]]
+arch = "powerpc64le"
+git-tree-sha1 = "ff487442ae3c86c28efefb0bde08b6fa772333da"
+libc = "glibc"
+os = "linux"
+
+    [[gfm.download]]
+    sha256 = "64ac9d5332531774e560d89b9c6d2ca3bcb915a23869e1de87e41e94e8cde71b"
+    url = "https://github.com/JuliaBinaryWrappers/gfm_jll.jl/releases/download/gfm-v0.29.6+0/gfm.v0.29.6.powerpc64le-linux-gnu.tar.gz"
+[[gfm]]
+arch = "x86_64"
+git-tree-sha1 = "db5bc3f6462d0817722d1c382e43774ed568fe40"
+os = "macos"
+
+    [[gfm.download]]
+    sha256 = "5edf88b1850a084dd4665a227ec2c837b78e6f315f53b6559d15f2437bd1dc11"
+    url = "https://github.com/JuliaBinaryWrappers/gfm_jll.jl/releases/download/gfm-v0.29.6+0/gfm.v0.29.6.x86_64-apple-darwin.tar.gz"
+[[gfm]]
+arch = "x86_64"
+git-tree-sha1 = "6a387f9fc3f2ec98ce66a51bddab24e0f54ccd36"
+libc = "glibc"
+os = "linux"
+
+    [[gfm.download]]
+    sha256 = "02d812ff23a57402daa9d39f9945a180973250f2ebf20f0227c5d4f1ec5093ac"
+    url = "https://github.com/JuliaBinaryWrappers/gfm_jll.jl/releases/download/gfm-v0.29.6+0/gfm.v0.29.6.x86_64-linux-gnu.tar.gz"
+[[gfm]]
+arch = "x86_64"
+git-tree-sha1 = "103b7ce5d1101e09a49c364d02f212a2ea8ff6c4"
+libc = "musl"
+os = "linux"
+
+    [[gfm.download]]
+    sha256 = "75fef992869c3b525913c455d73ed5a9e9313a6c620cbbf44e5fd9271d3ae531"
+    url = "https://github.com/JuliaBinaryWrappers/gfm_jll.jl/releases/download/gfm-v0.29.6+0/gfm.v0.29.6.x86_64-linux-musl.tar.gz"
+[[gfm]]
+arch = "x86_64"
+git-tree-sha1 = "add29691bfcc2104da84ee62772511757b5db1fc"
+os = "freebsd"
+
+    [[gfm.download]]
+    sha256 = "bc2e1f28797164e4377adc9651583d6a88674911b61b369e8014826d4309e5a4"
+    url = "https://github.com/JuliaBinaryWrappers/gfm_jll.jl/releases/download/gfm-v0.29.6+0/gfm.v0.29.6.x86_64-unknown-freebsd.tar.gz"
+[[gfm]]
+arch = "x86_64"
+git-tree-sha1 = "975fce85a31df682daf6ef0470a9fc9366bb0a44"
+os = "windows"
+
+    [[gfm.download]]
+    sha256 = "b2e232c9b97b315537faff03bbad6f50166d3a4b0a37e6a85853260a5b7b7255"
+    url = "https://github.com/JuliaBinaryWrappers/gfm_jll.jl/releases/download/gfm-v0.29.6+0/gfm.v0.29.6.x86_64-w64-mingw32.tar.gz"
